@@ -7,6 +7,6 @@ import static org.junit.Assert.*;
 public class AppTest {
     @Test
     public void testGetMessage() {
-        assertEquals("Hello, Jenkins Pipeline!", App.getMessage());
+        assertEquals("Hello, Jenkins Pipeline!i v2", App.getMessage());
     }
 }
